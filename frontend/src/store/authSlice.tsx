@@ -1,7 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
 
-// import authReducer from './auth';
-
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialAuthState = {
